@@ -57,5 +57,7 @@ How to Use
 3. Open the Jupyter Notebook Zomato_Data_Analysis.ipynb.
 4. Follow the instructions provided in the notebook to execute the analysis steps.
 5. Explore the findings and insights generated from the analysis.
+
 **Contributor**
+
 Sole contributor and analyst for this project.
